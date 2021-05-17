@@ -20,6 +20,9 @@ const config = {
       { from: 'src/components/vant/button/index.wxs', to: 'dist/components/vant/button/index.wxs' },
       { from: 'src/components/vant/icon/index.wxs', to: 'dist/components/vant/icon/index.wxs' },
       { from: 'src/components/vant/loading/index.wxs', to: 'dist/components/vant/loading/index.wxs' },
+      { from: 'src/components/vant/notify/index.wxs', to: 'dist/components/vant/notify/index.wxs' },
+      { from: 'src/components/vant/transition/index.wxs', to: 'dist/components/vant/transition/index.wxs' },
+      { from: 'src/components/vant/popup/index.wxs', to: 'dist/components/vant/popup/index.wxs' },
     ],
     options: {
     }
